@@ -1,0 +1,11 @@
+{
+  "httpMethod": "PUT",
+  "resource": "/users/{id}",
+  "path": "/users/11111111-1111-4111-8111-111111111111",
+  "headers": { "content-type": "application/json" },
+  "pathParameters": { "id": "11111111-1111-4111-8111-111111111111" },
+  "queryStringParameters": null,
+  "body": "{\"age\":29,\"lastName\":\"Lopez Vega\"}",
+  "isBase64Encoded": false,
+  "requestContext": { "requestId": "local-invoke" }
+}

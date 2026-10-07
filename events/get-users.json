@@ -1,0 +1,11 @@
+{
+  "httpMethod": "GET",
+  "resource": "/users",
+  "path": "/users",
+  "headers": { "content-type": "application/json" },
+  "pathParameters": null,
+  "queryStringParameters": { "page": "1", "limit": "10", "sortBy": "createdAt", "sortOrder": "DESC" },
+  "body": null,
+  "isBase64Encoded": false,
+  "requestContext": { "requestId": "local-invoke" }
+}

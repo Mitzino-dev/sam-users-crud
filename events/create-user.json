@@ -1,0 +1,11 @@
+{
+  "httpMethod": "POST",
+  "resource": "/users",
+  "path": "/users",
+  "headers": { "content-type": "application/json" },
+  "pathParameters": null,
+  "queryStringParameters": null,
+  "body": "{\"firstName\":\"Nuevo\",\"lastName\":\"Usuario\",\"email\":\"nuevo.usuario@test.com\",\"age\":28}",
+  "isBase64Encoded": false,
+  "requestContext": { "requestId": "local-invoke" }
+}
